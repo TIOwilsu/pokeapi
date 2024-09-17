@@ -1,5 +1,8 @@
 # pokeapp
 
+## Config project
+To run project is necessary to use node version `14.17.3` or low, because this project was created a long time ago.
+
 ## Project setup
 ```
 yarn install
